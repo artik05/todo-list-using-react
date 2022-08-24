@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+}
+
+label {
+  padding: 5px;
+}
+input,
+select,
+button {
+  padding: 5px;
+  margin: 5px;
+}
